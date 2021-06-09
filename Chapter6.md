@@ -171,5 +171,5 @@
 ## 应用进程跨越网络的通信
 
 - 系统调用实现应用程序和操作系统间控制权转移
-- 套接字沟通操作系统和应用程序。如套接字接口、TLI、Windows Socket
+- 应用编程接口(API)沟通操作系统和应用程序。如套接字接口、TLI、Windows Socket
 - connect、bind、listen（UDP无）、accept、receive&send、close
